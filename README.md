@@ -4,4 +4,4 @@
 
 # players (u find a screen of player who can do top)
 
-all screen of player here (almost all the top get a win)
+# all screen of player here (almost all the top get a win)
